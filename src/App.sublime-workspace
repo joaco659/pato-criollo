@@ -1,0 +1,974 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"polin",
+				"polinomio"
+			],
+			[
+				"terminos",
+				"terminosArr"
+			],
+			[
+				"CANTAN",
+				"CANTANTE_CONTAINER"
+			],
+			[
+				"can",
+				"cantantesJSON"
+			],
+			[
+				"cantante",
+				"cantantes"
+			],
+			[
+				"CANTANTE",
+				"CANTANTE_CONTRATAR_BTN"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"bagk",
+				"background-color\tproperty"
+			],
+			[
+				"promotions",
+				"promotionsBtn"
+			],
+			[
+				"promot",
+				"promotionsModal"
+			],
+			[
+				"show",
+				"showPromoModal"
+			],
+			[
+				"prmotion",
+				"promotions-btn"
+			],
+			[
+				"pro",
+				"promotions-btn"
+			],
+			[
+				"class",
+				"classList"
+			],
+			[
+				"html",
+				"htmlLinkElement"
+			],
+			[
+				"border",
+				"border-top"
+			],
+			[
+				"background",
+				"background-color\tproperty"
+			],
+			[
+				"prodc",
+				"product-modal"
+			],
+			[
+				"min-",
+				"min-width\tproperty"
+			],
+			[
+				"min",
+				"min-height\tproperty"
+			],
+			[
+				"margi",
+				"margin-top\tproperty"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"grid",
+				"grid-column\tproperty"
+			],
+			[
+				"product",
+				"product-modal"
+			],
+			[
+				"produc",
+				"product-modal"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"align",
+				"align-self\tproperty"
+			],
+			[
+				"slpide",
+				"splide__track"
+			],
+			[
+				"splide",
+				"splide"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"marign",
+				"margin\tproperty"
+			],
+			[
+				"space",
+				"space-between\tjustify-content"
+			],
+			[
+				"bakc",
+				"background\tproperty"
+			],
+			[
+				"paddin",
+				"padding-top\tproperty"
+			],
+			[
+				"pading",
+				"padding-bottom"
+			],
+			[
+				"padi",
+				"padding-bottom\tproperty"
+			],
+			[
+				"bak",
+				"background-color\tproperty"
+			],
+			[
+				"modal",
+				"modalBackground"
+			],
+			[
+				"backgr",
+				"background-color\tproperty"
+			],
+			[
+				"a",
+				"not-allowed\tcursor"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"gri",
+				"grid-row"
+			],
+			[
+				"bakcgro",
+				"background-color\tproperty"
+			],
+			[
+				"for",
+				"for\tfor (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"grid-te",
+				"grid-template-rows\tproperty"
+			],
+			[
+				"grid-tema",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"word",
+				"word-wrap\tproperty"
+			],
+			[
+				"inhe",
+				"inherit-width"
+			],
+			[
+				"rgb",
+				"rgba(color, alpha)\tbackground-color"
+			],
+			[
+				"backgroud",
+				"background\tproperty"
+			],
+			[
+				"inl",
+				"inline-block\tdisplay"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"se",
+				"secondary-color"
+			],
+			[
+				"pre",
+				"pre-wrap\twhite-space"
+			],
+			[
+				"wo",
+				"word-break\tproperty"
+			],
+			[
+				"wor",
+				"word-wrap\tproperty"
+			],
+			[
+				"ran",
+				"randomCode"
+			],
+			[
+				"guild",
+				"guildId"
+			],
+			[
+				"produ",
+				"productsSheet"
+			],
+			[
+				"c",
+				"column\tflex-flow"
+			],
+			[
+				"al",
+				"align-items"
+			],
+			[
+				"flex",
+				"flex-flow\tproperty"
+			],
+			[
+				"create",
+				"createInstance"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"felx",
+				"flex-flow\tproperty"
+			],
+			[
+				"products",
+				"productsContainer"
+			],
+			[
+				"axios",
+				"axiosProducts"
+			],
+			[
+				"tex",
+				"text-white"
+			],
+			[
+				"homework",
+				"homeworkData2"
+			],
+			[
+				"homew",
+				"homeworkInventory"
+			],
+			[
+				"home",
+				"homeworkInventory"
+			],
+			[
+				"ar",
+				"array"
+			],
+			[
+				"homw",
+				"homeworkData"
+			],
+			[
+				"form",
+				"formModal"
+			],
+			[
+				"ge",
+				"getItem"
+			],
+			[
+				"user",
+				"userHomeworks"
+			],
+			[
+				"e",
+				"e"
+			],
+			[
+				"clas",
+				"classList"
+			],
+			[
+				"hom",
+				"homework-description"
+			],
+			[
+				"check",
+				"checkOverflow"
+			],
+			[
+				"translate",
+				"-translate-y-9"
+			],
+			[
+				"peer",
+				"peer-placeholder-shown"
+			],
+			[
+				"rounded",
+				"rounded-full"
+			],
+			[
+				"bg",
+				"bg-indigo-500"
+			],
+			[
+				"pe",
+				"peer-focus"
+			],
+			[
+				"scal",
+				"scale-100"
+			],
+			[
+				"tras",
+				"translate-y-1"
+			],
+			[
+				"tra",
+				"translate-y-2"
+			],
+			[
+				"trans",
+				"transition-all"
+			],
+			[
+				"trasi",
+				"transition-all"
+			],
+			[
+				"text-gra",
+				"text-gray-100"
+			],
+			[
+				"bg-gra",
+				"bg-gray-100"
+			],
+			[
+				"pee",
+				"peer-placeholder-shown"
+			],
+			[
+				"trnas",
+				"transition-all"
+			],
+			[
+				"roune",
+				"rounded-3xl"
+			],
+			[
+				"text-",
+				"text-gray-100"
+			],
+			[
+				"cl",
+				"classList"
+			],
+			[
+				"tran",
+				"transition-all"
+			],
+			[
+				"darkmode",
+				"darkModeBtn"
+			],
+			[
+				"dark",
+				"darkModeBtn"
+			],
+			[
+				"darkMode",
+				"darkMode"
+			],
+			[
+				"to",
+				"toggleDarkModeBtn"
+			],
+			[
+				"bg-",
+				"bg-black \tTailwind Class"
+			],
+			[
+				"new",
+				"newRes"
+			],
+			[
+				"clo",
+				"column-reverse\tflex-flow"
+			],
+			[
+				"mragin",
+				"margin-left\tproperty"
+			],
+			[
+				"fle",
+				"flex-start\talign-self"
+			],
+			[
+				"spa",
+				"space-between\tjustify-content"
+			],
+			[
+				"bcakgr",
+				"background-repeat\tproperty"
+			],
+			[
+				"mi",
+				"miFormulario"
+			],
+			[
+				"row",
+				"row-reverse\tflex-flow"
+			],
+			[
+				"backgron",
+				"background-size\tproperty"
+			],
+			[
+				"t",
+				"title"
+			],
+			[
+				"b",
+				"b"
+			],
+			[
+				"bin",
+				"binaryArray"
+			],
+			[
+				"binar",
+				"binaryStringArray"
+			],
+			[
+				"n",
+				"nString"
+			],
+			[
+				"re",
+				"resultado"
+			],
+			[
+				"if",
+				"if\tif"
+			],
+			[
+				"q",
+				"question"
+			],
+			[
+				"soporte",
+				"soporte"
+			],
+			[
+				"conta",
+				"conectada"
+			],
+			[
+				"ope",
+				"openWindowBtns"
+			],
+			[
+				"nos",
+				"nosotrosWindow"
+			],
+			[
+				"rg",
+				"rgba()\tbackground-color"
+			],
+			[
+				"backgrou",
+				"background-blend-mode"
+			],
+			[
+				"blend",
+				"background-blend-mode\tproperty"
+			],
+			[
+				"ovfe",
+				"overflow-y\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"quoka",
+				"Quokka.js: Start on Current File"
+			],
+			[
+				"wrap",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"emmet",
+				"Emmet: Wrap with Abbreviation"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"terminus",
+				"Preferences: Terminus Key Bindings"
+			],
+			[
+				"",
+				"View: Toggle Menu"
+			],
+			[
+				"terminsu",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"LiveReload: Enable/disable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"quo",
+				"Quokka.js: Start on Current File"
+			],
+			[
+				"qu",
+				"Quokka.js: Start on Current File"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"add",
+				"Git: Add Tag"
+			],
+			[
+				"git",
+				"Git: Init"
+			],
+			[
+				"commt",
+				"Git: Commit"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"insat",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"pretiff",
+				"HTMLPrettify: Set Prettify Preferences"
+			],
+			[
+				"console",
+				"Set Syntax: R Console"
+			],
+			[
+				"Snippet: mai",
+				"Snippet: method (main)"
+			],
+			[
+				"instl",
+				"Package Control: Install Package"
+			],
+			[
+				"LiveReload: Enable/disable plugins}",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"pakca",
+				"Package Control: Remove Package"
+			],
+			[
+				"toggle menu",
+				"View: Toggle Menu"
+			],
+			[
+				"toggle",
+				"View: Toggle Menu"
+			],
+			[
+				"Snippet: ",
+				"Snippet: While Loop"
+			],
+			[
+				"quio",
+				"Quokka.js: New File"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 164.0,
+		"history":
+		[
+			"cmd",
+			"time.sleep(3)",
+			"import time",
+			"4 + 4",
+			"a + 3",
+			"dir(__doc__)",
+			"dir()",
+			"dir",
+			"print(\"asd\")",
+			"clean",
+			"sass",
+			"npm",
+			"def",
+			"function",
+			"def saludar(nombre):",
+			"python",
+			"len(a)",
+			"a.len()",
+			"a",
+			"a = 6",
+			"self",
+			"JSON",
+			"javac",
+			"print(\"hola\")",
+			"print",
+			"npm"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/joaco/patocriolloapp/.gitignore",
+		"/C/Users/joaco/patocriolloapp/tailwind.config.js",
+		"/C/Users/joaco/patocriolloapp/src/App.jsx",
+		"/C/Users/joaco/patocriolloapp/src/index.css",
+		"/C/Users/joaco/patocriolloapp/src/main.jsx",
+		"/C/Users/joaco/calendar-app/src/index.css",
+		"/C/Users/joaco/calendar-app/package-lock.json",
+		"/C/Users/joaco/polinomios-escuela/index.js",
+		"/C/Users/joaco/polinomios-escuela/.gitignore",
+		"/C/Users/joaco/calendar-app/src/styles/CalendarItem.scss",
+		"/C/Users/joaco/calendar-app/src/components/CalendarItem.jsx",
+		"/C/Users/joaco/calendar-app/src/App.jsx",
+		"/C/Users/joaco/AppData/Roaming/Sublime Text 3/Packages/User/component.sublime-snippet",
+		"/C/Users/joaco/calendar-app/src/containers/CalendarContainer.jsx",
+		"/C/Users/joaco/calendar-app/src/styles/CalendarContainer.scss",
+		"/C/Users/joaco/calendar-app/src/App.scss",
+		"/C/Users/joaco/calendar-app/src/main.jsx",
+		"/C/Users/joaco/calendar-app/src/containers/CalendarContainer",
+		"/C/Users/joaco/cantantes.js",
+		"/C/Users/joaco/ap-buenosaires/cantantes.html",
+		"/C/Users/joaco/calendar-app/src/styles/App.scss",
+		"/C/Users/joaco/calendar-app/src/App.css",
+		"/C/Users/joaco/calendar-app/index.html",
+		"/C/Users/joaco/calendar-app/src/assets/react.svg",
+		"/C/Users/joaco/algoritmosJS/selectionSort.js",
+		"/C/Users/joaco/algoritmosJS/binaryTree.js",
+		"/C/Users/joaco/patocriolloapp/src/js/index.js",
+		"/C/Users/joaco/patocriolloapp/public/index.html",
+		"/C/Users/joaco/patocriolloapp/src/styles/main.scss",
+		"/C/Users/joaco/patocriolloapp/src/js/promoModals.js",
+		"/C/Users/joaco/patocriolloapp/src/styles/media-queries.scss",
+		"/C/Users/joaco/patocriolloapp/package.json",
+		"/C/Users/joaco/patocriolloapp/public/styles/splide.min.css",
+		"/C/Users/joaco/hackercodeapp/public/styles/main.css",
+		"/C/Users/joaco/hackercodeapp/src/styles/main.scss",
+		"/C/Users/joaco/hackercodeapp/src/codes.txt",
+		"/C/Users/joaco/hackercodeapp/src/index.js",
+		"/C/Users/joaco/hackercodeapp/public/index.html",
+		"/C/Users/joaco/AppData/Local/nvim/init.lua",
+		"/C/Users/joaco/hackercodeapp/src/codes.js",
+		"/C/Users/joaco/hackercodeapp/src/code.txt",
+		"/C/Users/joaco/hackercodeapp/webpack.config.js",
+		"/C/Users/joaco/patocriolloapp/webpack.config.js",
+		"/C/Users/joaco/hackercodeapp/public/main.js",
+		"/C/Users/joaco/hackercodeapp/package.json",
+		"/C/Users/joaco/AppData/Roaming/Sublime Text 3/Packages/User/ESLint.sublime-settings",
+		"/C/Users/joaco/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/joaco/hackercodeapp/public/styles/normalize.css",
+		"/C/Users/joaco/hackercodeapp/.gitignore",
+		"/C/Users/joaco/insertionSort.js",
+		"/C/Users/joaco/joabot/index.js",
+		"/C/Users/joaco/joabot/deploy-commands.js",
+		"/C/Users/joaco/joabot/config.json",
+		"/C/Users/joaco/joabot/commands/user.js",
+		"/C/Users/joaco/joabot/commands/ping.js",
+		"/C/Users/joaco/patocriolloapp/src/js/util/products.json",
+		"/C/Users/joaco/Practicar/public/index.html",
+		"/C/Users/joaco/Practicar/src/js/index.js",
+		"/C/Users/joaco/Practicar/src/styles/main.scss",
+		"/C/Users/joaco/Practicar/public/styles/splide.min.css",
+		"/C/Users/joaco/Practicar/node_modules/@splidejs/splide/dist/css/splide.min.css",
+		"/C/Users/joaco/Practicar/webpack.config.js",
+		"/C/Users/joaco/Practicar/package.json",
+		"/C/Users/joaco/Practicar/node_modules/axios/lib/axios.js",
+		"/C/Users/joaco/Practicar/public/favicon.ico",
+		"/C/Users/joaco/Downloads/imagen-removebg-preview(1).png",
+		"/C/Users/joaco/Downloads/imagen-removebg-preview.png",
+		"/C/Users/joaco/Practicar/src/js/util/products.json",
+		"/C/Users/joaco/Practicar/src/styles/scss/vendor-prefixes.scss",
+		"/C/Users/joaco/WebDrugs/src/styles/scss/main.scss",
+		"/C/Users/joaco/Practicar/public/styles.css",
+		"/C/Users/joaco/Practicar/src/styles/input.css",
+		"/C/Users/joaco/WebDrugs/public/index.html",
+		"/C/Users/joaco/WebDrugs/src/js/main.js",
+		"/C/Users/joaco/WebDrugs/src/styles/main.css",
+		"/C/Users/joaco/WebDrugs/tailwind.config.js",
+		"/C/Users/joaco/WebDrugs/src/styles/assets/xmark-solid.png",
+		"/C/Users/joaco/WebDrugs/public/styles.css",
+		"/C/Users/joaco/Practicar/tailwind.config.js",
+		"/C/Users/joaco/Practicar/src/styles/tailwind.css",
+		"/C/Users/joaco/AppData/Local/Packages/Microsoft.WindowsTerminal_8wekyb3d8bbwe/LocalState/settings.json",
+		"/C/Users/joaco/posh_themes/cloud-native-azure.omp.json",
+		"/C/Users/joaco/posh_themes/catppuccin.omp.json",
+		"/C/Program Files/PostgreSQL/10/scripts/runpsql.bat",
+		"/C/Users/joaco/posh_themes/atomic.omp.json",
+		"/C/Users/joaco/posh_themes/shell.omp.json",
+		"/C/Users/joaco/posh_themes/amro.omp.json",
+		"/C/Users/joaco/posh_themes/atomicBit.omp.json",
+		"/C/Users/joaco/WebDrugs/package.json",
+		"/C/Users/joaco/Downloads/Web Talar/main.js",
+		"/C/Users/joaco/WebDrugs/src/js/test.js",
+		"/C/Users/joaco/Documents/Codigos/Proyectos/Demostracion de producto/styles.css",
+		"/C/Users/joaco/AppData/Roaming/Sublime Text 3/Packages/User/live-server.sublime-build",
+		"/C/Users/joaco/WebDrugs/public/t-output.css",
+		"/C/Users/joaco/AppData/Roaming/Sublime Text 3/Packages/User/sass.sublime-build",
+		"/C/Users/joaco/WebDrugs/styles/t-output.css",
+		"/C/Users/joaco/WebDrugs/index.html",
+		"/C/Users/joaco/WebDrugs/js/main.js",
+		"/C/Users/joaco/WebDrugs/styles/main.css",
+		"/C/Users/joaco/WebDrugs/js/tailwind.config.js",
+		"/C/Users/joaco/WebDrugs/styles/scss/main.scss",
+		"/C/xampp/htdocs/Codigo/index.html",
+		"/C/xampp/htdocs/Codigo/main.js",
+		"/C/Users/joaco/WebDrugs/js/util/example-data.json",
+		"/C/Users/joaco/WebDrugs/js/util/example-data",
+		"/C/Users/joaco/WebDrugs/styles/assets/diseño-modal.png",
+		"/C/Users/joaco/Desktop/Command Prompt.lnk",
+		"/C/Users/joaco/WebDrugs/main.css",
+		"/C/Users/joaco/my-react-app/node_modules/postcss-merge-longhand/dist/lib/canMerge.js",
+		"/C/xampp/htdocs/Codigo/styles.css",
+		"/C/Users/joaco/Downloads/SistHelpDesk/js/main.js",
+		"/C/Users/joaco/Downloads/SistHelpDesk/assets/scss/main.scss",
+		"/C/Users/joaco/Downloads/SistHelpDesk/index.html",
+		"/C/Users/joaco/Downloads/SistHelpDesk/assets/main.css",
+		"/C/Users/joaco/Desktop/Diseño Sist Help Desk/brief/modeled brief.txt",
+		"/C/Users/joaco/WebDrugs/styles/scss/vendor-prefixes.scss",
+		"/C/Users/joaco/AppData/Roaming/Sublime Text 3/Packages/User/querySelector.sublime-snippet",
+		"/C/Users/joaco/Downloads/SistHelpDesk/assets/styles.css",
+		"/C/Users/joaco/Downloads/SistHelpDesk/assets/index.html",
+		"/C/Users/joaco/WebDrugs/styles/scss/primary-color-theme.scss",
+		"/C/Users/joaco/WebDrugs/styles/scss/tipography.scss",
+		"/C/Users/joaco/WebDrugs/styles/scss/secondary-color-theme.scss",
+		"/C/Users/joaco/WebDrugs/styles/scss/color-palette-primary.scss",
+		"/C/Users/joaco/WebDrugs/styles/scss/color-palette-primary",
+		"/C/Users/joaco/WebDrugs/styles/main.scss",
+		"/C/Users/joaco/WebDrugs/styles/normalize.css",
+		"/C/Users/joaco/WebDrugs/styles/core.applescript",
+		"/C/Users/joaco/WebDrugs/styles/core.asm"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 244.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 84.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "App.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 342.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 918.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 166.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
