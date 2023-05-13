@@ -130,7 +130,7 @@
 .splide__arrow {
  -ms-flex-align:center;
  align-items:center;
- background: #F9AD0B !important;
+ background: #F48C06 !important;
  border:0;
  cursor:pointer;
  display:-ms-flexbox;
@@ -182,7 +182,7 @@
  position:absolute;
  right:0;
  z-index:1;
- background: #FAE13Eea;
+ background: #ffca40;
 }
 .splide__pagination__page {
  background:#ccc !important;
@@ -198,7 +198,7 @@
  width:8px
 }
 .splide__pagination__page.is-active {
- background:#F42032 !important;
+ background: #E85D04 !important;
  transform:scale(1.4);
  z-index:1
 }

@@ -10,14 +10,14 @@ const Header = () => {
 	}
 	
 	return (
-		<header className="flex w-full items-center fixed top-0 justify-between h-24 z-50 bg-orange-400">
+		<header className="flex w-full items-center fixed top-0 justify-between h-24 z-50 bg-secondary">
 			<img className="w-20 h-20 ml-4" src="src/assets/logo1.png" alt="Pato Criollo Logo" title="Pato Criollo" load="lazy" />
 			<h1 className="text-2xl font-medium">Pato Criollo</h1>
 			<nav>
 				<button className="bg-transparent border-none mx-4">
 					<i onClick={showBurger} className="burgerBtn fa-solid fa-bars text-4xl [transition:font-size] duration-100 cursor-pointer"></i>
 				</button>
-				<ul className="burger w-full text-center hidden absolute top-24 right-0 p-8 m-0 bg-orange-300 shadow-xl">
+				<ul className="burger w-full text-center hidden absolute top-24 right-0 p-8 m-0 bg-[#ED8806] shadow-xl">
 					{[
 						[1, 'Productos', '#productos'],
 						[2, 'Sucursal', '#sucursal'],
